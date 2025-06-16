@@ -1,4 +1,4 @@
-# Great — sounds like you're working on a **Data Engineering (DE) project**, and based on your message, you've got some containers running:
+
 
 * `postgres-1` (PostgreSQL)
 * `airflow-webserver-1`
