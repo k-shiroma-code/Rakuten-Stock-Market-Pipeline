@@ -1,4 +1,4 @@
-# 📈 Stock Market Data Pipeline with Apache Airflow
+# 📈 Weather Data Pipeline with Apache Airflow
 
 A modular, containerized data pipeline that extracts, processes, and stores historical stock price data using **Apache Airflow**, **MinIO**, and **Docker**. Inspired by *Marc Lamberti’s Apache Airflow: The Hands-On Guide*.
 
