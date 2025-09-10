@@ -7,7 +7,7 @@ from datetime import datetime
 
 from include.stock_market.tasks import _get_stock_prices, _store_prices
 
-SYMBOL = 'NVDA'
+SYMBOL = 'RKUNY'
 
 @dag(
     start_date=datetime(2023, 1, 1),
