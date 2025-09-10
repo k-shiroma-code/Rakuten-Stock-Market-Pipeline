@@ -1,6 +1,6 @@
 # Background
 
-I completed a course in Udemy for Apache Airflow, used a different stock market api called Rakuten and adjusted timezone difference for running DAGs. However, I felt that wasn't satisfactory to a full github repo. I decided to use the data engineering pipeline for a future project with weather api. 
+I completed a course in Udemy for Apache Airflow, used a different stock market api called Rakuten and adjusted timezone difference for running DAGs. However, I felt that wasn't satisfactory to a full github repo. I decided to use the data engineering pipeline for a future project with weather api. Included is a folder called airflow 8 which has the stock market logic for Airflow 2.0, not 3.0. There are some adjustments and learning curves I need to go over. 
 
 # Enhanced Weather Data Pipeline with Apache Airflow
 
